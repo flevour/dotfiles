@@ -14,7 +14,9 @@ alias e="$EDITOR"
 alias v="$VISUAL"
 
 # git
-alias gci="git pull --rebase && rake && git push"
+alias gci="git commit -m"
+alias gap="git add -p"
+alias gst="git status"
 
 # Bundler
 alias b="bundle"
