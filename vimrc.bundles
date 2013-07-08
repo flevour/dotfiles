@@ -29,5 +29,9 @@ Bundle 'vim-scripts/ctags.vim'
 Bundle 'vim-scripts/greplace.vim'
 Bundle 'vim-scripts/tComment'
 Bundle 'xenoterracide/html.vim'
+Bundle 'scrooloose/nerdtree'
+
+" http://valloric.github.io/YouCompleteMe/
+Bundle 'Valloric/YouCompleteMe'
 
 filetype on
