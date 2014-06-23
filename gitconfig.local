@@ -1,0 +1,5 @@
+[user]
+	name = Francesco Levorato
+	email = git@flevour.net
+[alias]
+  unstage = reset HEAD --
