@@ -9,6 +9,8 @@ brew cask install sublime-text
 brew cask install diffmerge
 brew cask install messenger-for-telegram
 brew cask install google-chrome
+brew cask install virtualbox
+brew cask install vagrant
 
 brew install autojump git
 
