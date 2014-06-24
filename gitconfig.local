@@ -4,6 +4,7 @@
 [alias]
   unstage = reset HEAD --
   br = branch
+  amend = commit --amend --no-edit
 [merge]
   tool = diffmerge
 [mergetool "diffmerge"]
