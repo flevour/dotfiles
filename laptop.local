@@ -10,7 +10,7 @@ brew cask install diffmerge
 brew cask install messenger-for-telegram
 brew cask install google-chrome
 
-brew install autojump
+brew install autojump git
 
 # Skipping because it installs v6
 # brew cask install launchbar
