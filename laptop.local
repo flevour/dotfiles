@@ -11,8 +11,6 @@ brew cask install messenger-for-telegram
 brew cask install google-chrome
 brew cask install virtualbox
 brew cask install vagrant
+brew cask install launchbar
 
 brew install autojump git
-
-# Skipping because it installs v6
-# brew cask install launchbar
