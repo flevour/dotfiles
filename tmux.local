@@ -1,0 +1,17 @@
+# http://superuser.com/a/217269
+setw -g mode-mouse on
+
+# http://stackoverflow.com/a/15471820/213903
+set-option -gw xterm-keys on
+
+# enable pbcopy and pbpaste
+# https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard/blob/master/README.md
+set-option -g default-command "reattach-to-user-namespace -l zsh"
+
+# highlight window when it has new activity
+setw -g monitor-activity on
+set -g visual-activity on
+
+# decrease command delay (increases vim responsiveness)
+set -sg escape-time 1
+
