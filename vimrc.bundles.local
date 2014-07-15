@@ -1,0 +1,7 @@
+" solarized theme
+Bundle "altercation/vim-colors-solarized"
+
+" Sublime like selection
+Bundle "terryma/vim-multiple-cursors"
+
+Bundle 'scrooloose/nerdcommenter'
