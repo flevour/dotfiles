@@ -5,3 +5,5 @@ Bundle "altercation/vim-colors-solarized"
 Bundle "terryma/vim-multiple-cursors"
 
 Bundle 'scrooloose/nerdcommenter'
+Bundle 'Lokaltog/vim-powerline'
+Bundle 'stephenmckinney/vim-solarized-powerline'
